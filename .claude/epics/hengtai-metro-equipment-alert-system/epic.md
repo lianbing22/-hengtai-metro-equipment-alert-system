@@ -4,7 +4,7 @@ status: backlog
 created: 2025-10-04T04:19:38Z
 progress: 0%
 prd: .claude/prds/hengtai-metro-equipment-alert-system.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/lianbing22/-hengtai-metro-equipment-alert-system
 ---
 
 # Epic: hengtai-metro-equipment-alert-system
